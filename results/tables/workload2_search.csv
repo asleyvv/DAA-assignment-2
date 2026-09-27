@@ -1,0 +1,9 @@
+structure,n,avg_time_ns,total_comparisons
+DynamicArray,100,683323,74981
+LinkedList,100,372377,74981
+DynamicArray,1000,181408,613868
+LinkedList,1000,1129705,613868
+DynamicArray,10000,716319,3015041
+LinkedList,10000,5952165,3015041
+DynamicArray,100000,5579108,24625041
+LinkedList,100000,46453310,24625041
